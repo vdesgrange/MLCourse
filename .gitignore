@@ -1,0 +1,6 @@
+# Files and folder exclude
+*.pdf
+**/lib/
+**/octave-workspace
+**/.DS_STORE
+mlfund_prod/
